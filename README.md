@@ -2,8 +2,6 @@
 #### 솜처럼 따뜻한 소통하는 리더 ☁
 ##### 꾸준히 성장하는 백엔드 개발자가 되겠습니다 :)
 
-</br>
-
 ### 🏆 BOJ Rating 
 
 <!--
@@ -25,8 +23,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=somi5488)](https://solved.ac/somi5488/)
 
-
-</br>
 
 
 ### ✍ SKILLS 
