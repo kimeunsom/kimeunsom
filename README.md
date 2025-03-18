@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)
+![tistory]([https://img.shields.io/badge/tistory-000000.svg](https://somde.tistory.com/)?&style=for-the-badge&logo=tistory&logoColor=white)
 
 
 
